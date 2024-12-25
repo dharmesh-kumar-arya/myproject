@@ -1,5 +1,5 @@
 {
-    "domain": "http://localhost:5000",
+    "domain": "http://localhost:8000",
     "SECRET_KEY": "assdcv@aq23432",
     "JWT_SECRET_KEY": "assdcv@aq23432",
     "JWT_ACCESS_TOKEN_EXPIRES": 1,
