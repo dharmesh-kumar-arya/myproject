@@ -1,0 +1,14 @@
+{
+    "domain": "http://localhost:5000",
+    "SECRET_KEY": "assdcv@aq23432",
+    "JWT_SECRET_KEY": "assdcv@aq23432",
+    "JWT_ACCESS_TOKEN_EXPIRES": 1,
+    "JWT_REFRESH_TOKEN_EXPIRES": 30,
+    "UPLOAD_FOLDER": "./uploads",
+    "ALLOWED_EXTENSIONS": ["pptx", "docx", "xlsx"],
+    "SQLALCHEMY_TRACK_MODIFICATIONS": false,
+    "sender_email": "aaa@gmail.com",
+    "sender_password": "9127kjh1kj1h242",
+    "DEBUG": true,
+    "PORT": 8000
+}
